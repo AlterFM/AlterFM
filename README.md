@@ -1,9 +1,22 @@
 # Hello There!
 
 ### 💻 Tech Stack
-- **Website:** Python, Django, Node.js, Tailwind CSS, PHP, JavaScript, HTML
-- **Game Dev:** C#, Unity, Blender
-- **Databases:** MySQL, PostgreSQL
+
+**🌐 Website & Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=py,django,nodejs,tailwind,php,js,html" alt="Web Dev Icons" />
+
+<br>
+
+**🎮 Game Dev & 3D**
+<br>
+<img src="https://skillicons.dev/icons?i=cs,unity,blender" alt="Game Dev Icons" />
+
+<br>
+
+**🗄️ Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Icons" />
 
 ### 📊 Overview
 <p align="left">
